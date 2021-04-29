@@ -11,5 +11,10 @@ This program was built in the context of a data structure class with the goal of
 
 Run the program, input the file name to solve ( already uploaded a couple example problems to solve : ct01.txt,ct02.txt...)
 
-# Example output for ct01.txt
-![image](https://user-images.githubusercontent.com/43648120/116591103-78f4f600-a8ec-11eb-9d02-ba37f1a0b141.png)
+# Example
+
+Given an input such as : 
+![image](https://user-images.githubusercontent.com/43648120/116591310-a80b6780-a8ec-11eb-83c9-fab53d11de1a.png)
+
+The solution is : 
+![image](https://user-images.githubusercontent.com/43648120/116591358-b78ab080-a8ec-11eb-9163-474ccc193dae.png)
